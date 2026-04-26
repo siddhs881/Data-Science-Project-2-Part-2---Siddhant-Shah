@@ -1,4 +1,4 @@
-# NDHL Team Stats Web Scraping and Analysis
+# NHL Team Stats Web Scraping and Analysis
 
 ## Purpose
 The purpose of this project is to scrape NHL team statistics from multiple pages and analyzes trends in wins, goals, and team performance across six seasons (1990–1995).
